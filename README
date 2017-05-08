@@ -1,0 +1,6 @@
+Folders/files:
+    - lib -> Custom classes
+        - Request.php -> Performs the curl request and returns response
+        - WriteXMl.php -> Creates xml string with the data for the request.
+    - config.php -> Configuration file. 
+    - get.php -> gets the parameters from the url.
